@@ -36,6 +36,7 @@ public class LoginPage extends TestBase {
 			return driver.getTitle();
 		}
 		
+		// login method
 		public HomePage login(String eid, String pwd) throws InterruptedException {
 			signInLink.click();
 			driver.manage().timeouts().pageLoadTimeout(TestUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
