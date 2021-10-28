@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Ecommerce Demo" duration-ms="67750" started-at="2021-10-25T05:34:21Z" finished-at="2021-10-25T05:35:29Z">
+    <groups>
+    </groups>
+    <test name="Ecommerce Test cases" duration-ms="67750" started-at="2021-10-25T05:34:21Z" finished-at="2021-10-25T05:35:29Z">
+      <class name="com.demo.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demo.testcases.HomePageTest@3532ec19]" name="setup" is-config="true" duration-ms="20816" started-at="2021-10-25T11:04:52Z" finished-at="2021-10-25T11:05:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyloginnameOfUserTest()[pri:2, instance:com.demo.testcases.HomePageTest@3532ec19]" name="verifyloginnameOfUserTest" duration-ms="64" started-at="2021-10-25T11:05:13Z" finished-at="2021-10-25T11:05:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginnameOfUserTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demo.testcases.HomePageTest@3532ec19]" name="teardown" is-config="true" duration-ms="861" started-at="2021-10-25T11:05:13Z" finished-at="2021-10-25T11:05:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demo.testcases.HomePageTest -->
+      <class name="com.demo.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demo.testcases.LoginPageTest@26653222]" name="setup" is-config="true" duration-ms="9966" started-at="2021-10-25T11:04:21Z" finished-at="2021-10-25T11:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTestBeforelogin()[pri:1, instance:com.demo.testcases.LoginPageTest@26653222]" name="loginPageTitleTestBeforelogin" duration-ms="16" started-at="2021-10-25T11:04:31Z" finished-at="2021-10-25T11:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTestBeforelogin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demo.testcases.LoginPageTest@26653222]" name="teardown" is-config="true" duration-ms="861" started-at="2021-10-25T11:04:31Z" finished-at="2021-10-25T11:04:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demo.testcases.LoginPageTest@26653222]" name="setup" is-config="true" duration-ms="12092" started-at="2021-10-25T11:04:32Z" finished-at="2021-10-25T11:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:2, instance:com.demo.testcases.LoginPageTest@26653222]" name="logintest" duration-ms="7340" started-at="2021-10-25T11:04:44Z" finished-at="2021-10-25T11:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demo.testcases.LoginPageTest@26653222]" name="teardown" is-config="true" duration-ms="964" started-at="2021-10-25T11:04:51Z" finished-at="2021-10-25T11:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demo.testcases.LoginPageTest@26653222]" name="setup" is-config="true" duration-ms="7608" started-at="2021-10-25T11:05:14Z" finished-at="2021-10-25T11:05:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTestAfterlogin()[pri:3, instance:com.demo.testcases.LoginPageTest@26653222]" name="loginPageTitleTestAfterlogin" duration-ms="6284" started-at="2021-10-25T11:05:22Z" finished-at="2021-10-25T11:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTestAfterlogin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.demo.testcases.LoginPageTest@26653222]" name="teardown" is-config="true" duration-ms="852" started-at="2021-10-25T11:05:28Z" finished-at="2021-10-25T11:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.demo.testcases.LoginPageTest -->
+    </test> <!-- Ecommerce Test cases -->
+  </suite> <!-- Ecommerce Demo -->
+</testng-results>

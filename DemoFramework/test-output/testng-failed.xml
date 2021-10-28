@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Ecommerce Demo]">
+  <test name="Ecommerce Test cases(failed)">
+    <classes>
+      <class name="com.demo.testcases.HomePageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="verifyloginnameOfUserTest"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.demo.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Ecommerce Test cases(failed) -->
+</suite> <!-- Failed suite [Ecommerce Demo] -->
