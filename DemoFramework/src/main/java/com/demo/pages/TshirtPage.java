@@ -15,7 +15,7 @@ public class TshirtPage extends TestBase {
 	WebElement tshirtLink;
 	
 	
-	
+	// This is constructor for T shirt page
 	
 	public TshirtPage() {
 		PageFactory.initElements(driver, this);
